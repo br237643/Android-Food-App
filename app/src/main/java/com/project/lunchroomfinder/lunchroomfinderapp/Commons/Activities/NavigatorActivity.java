@@ -1,4 +1,4 @@
-package com.project.lunchroomfinder.lunchroomfinderapp.Commons;
+package com.project.lunchroomfinder.lunchroomfinderapp.Commons.Activities;
 
 import android.os.Bundle;
 import android.support.annotation.Nullable;
